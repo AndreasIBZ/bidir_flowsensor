@@ -1,5 +1,10 @@
 # bidirectional volumetric flow sensor
 
+<p>
+  <img src="https://github.com/AndreasIBZ/bidir_flowsensor/blob/master/screenshot_flowsensor.JPG" width="200" title="Flowsensor">
+  <img src="https://github.com/AndreasIBZ/bidir_flowsensor/blob/master/screenshot_section_flowsensor.JPG" width="200" title="Flowsensor Section">
+</p>
+
 ## Basic function
 A flow through the orifice results in a higher static pressure on the inlet and a lower static pressure on the outlet. The difference is called static pressure drop and can be measured by a differential pressure sensor. The differential pressure is proportional to the flow to the power of 2.  
 
