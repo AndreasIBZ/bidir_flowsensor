@@ -6,7 +6,7 @@
 </p>
 
 ## Basic function
-A flow through the orifice results in a higher static pressure on the inlet and a lower static pressure on the outlet. The difference is called static pressure drop and can be measured by a differential pressure sensor. The differential pressure is proportional to the flow to the power of 2.  
+A flow through the orifice results in a higher static pressure on the inlet and a lower static pressure on the outlet. The difference is called static pressure drop and can be measured by a <a href="https://github.com/AndreasIBZ/dig_diff_pressuresensor">differential pressure sensor</a>. The differential pressure is proportional to the flow to the power of 2.  
 
 ## Assembly
 put a sealing O-Ring or abundance of silicone into the sealing groove of the connector fitting, screw the fitting into the threaded part of the orifice
